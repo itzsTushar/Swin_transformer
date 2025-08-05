@@ -1,2 +1,4 @@
 /Dataset
 /pretrained_ckpt
+/swin_output
+/configs/swin_model
